@@ -15,8 +15,8 @@ By utilising HAML comments, this boilerplate still includes the kitchen sink "ju
         <title></title>
         <meta content="" name="description">
         <meta content="width=device-width, initial-scale=1" name="viewport">
-        <link href="/favicon.ico" rel="shortcut icon">
-        <link href="/css/base.css" rel="stylesheet">
+        <link href="/favicon.icon" rel="shortcut icon">
+        <link href="/css/base.css" rel="stylesheets">
     </head>
     <body>
     </body>
